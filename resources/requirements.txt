@@ -1,0 +1,11 @@
+jupyter
+notebook
+pandas
+scikit-learn
+numpy
+prettytable
+matplotlib
+ipython
+tensorflow
+keras
+shap
