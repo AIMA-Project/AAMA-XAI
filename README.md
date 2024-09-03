@@ -17,7 +17,7 @@ See the below section for more information.
 ## Building Lab Images
 **It is important to note that Linux users will have to run Docker commands as root or using the `sudo` command!**
 
-A pre-built image is availabe on [Docker Hub](https://hub.docker.com/r/abcyslab/aama-xailab) if you wish to skip the
+A pre-built image is availabe on [Docker Hub](https://hub.docker.com/r/abcyslab/aama-xai) if you wish to skip the
 building process. This image is automatically built, so it stays up to date with the repository. A set of directions is
 provided by Docker Hub to pull and run the image.
 
